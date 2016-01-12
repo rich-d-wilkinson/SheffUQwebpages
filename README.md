@@ -62,6 +62,10 @@ categories: jekyll update events blog
 
 * If you include the word 'blog' in the category keywords it will be listed in the blog entries, and if you include the word 'events', it will be on the events page etc.
 
+* Note that events and blog entries in the future are not included by default, and so you need to specify that they should be included when you build the page:
+```
+jekyll serve --future TRUE
+```
 
 ### Source
 The website uses the [Jekyll-Pithy](https://github.com/smallmuou/Jekyll-Pithy) theme.
