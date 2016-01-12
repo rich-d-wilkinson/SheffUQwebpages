@@ -15,7 +15,7 @@ cd SheffUQwebpages
 ### Making changes etc.
 
 The structure of the website is defined in /\_includes and /\_layouts.
-The site is setup to use markdown. Content lives in .markdown or .md files, such as index.md. These are markdown files, so you don't need to use html tags (see https://daringfireball.net/projects/markdown for example).
+The site is setup to use markdown. Content lives in .markdown or .md files, such as index.md. These are markdown files, so you don't need to use html tags (see [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for example).
 
 Once you've made edits, you'll need to
 
