@@ -24,7 +24,8 @@ Once you've made edits, you'll need to
 
 If that looks okay, commit the code to github,
 
-```git add
+```
+git add
 git commit -m 'Description of changes'
 git push --set-upstream origin master
 ```
@@ -32,7 +33,8 @@ git push --set-upstream origin master
  and upload it to cpanel.
 The html files are those in the  /\_site directory.
 
-```cd _site
+```
+cd _site
 ftp username@staff.shef.ac.uk
 # enter password
 cd public_html
