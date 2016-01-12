@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog entry "
+date:   2015-10-09
+author: Richard Wilkinson
+authorurl: http://r-wilkinson.staff.shef.ac.uk
+categories: jekyll update blog
+---
+
+Words stuff etc.
+
+More words.
