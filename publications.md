@@ -54,11 +54,12 @@ layout: plain
 <div class="article">
         <div class="content">
     <div class="well">
-<h1> 2010</h1>
-{% bibliography --query @*[year=2010] %}
+<h1> 2010 and earlier</h1>
+{% bibliography --query @*[year<=2010] %}
 </div>
 </div>
 </div>
+
 
 
 

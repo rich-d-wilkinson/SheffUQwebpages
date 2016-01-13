@@ -7,8 +7,15 @@ We are a research group in Uncertainty Quantification (UQ) at the University of 
 
 Such problems include: investigating model output uncertainty induced by model input uncertainty; calibrating models to physical observations; assessing the discrepancy model predictions and reality; analysis with computationally expensive models. 
 
-Currently, we are spread across two departments: [the School of Mathematics and Statistics](https://www.sheffield.ac.uk/maths), and [the School of Health and Related Research](https://www.sheffield.ac.uk/scharr)
+Currently, we are spread across two departments: [the School of Mathematics and Statistics (SoMaS)](https://www.sheffield.ac.uk/maths), and [the School of Health and Related Research (ScHARR)](https://www.sheffield.ac.uk/scharr)
 
+# Email list
+
+We maintain a mailing list: Uncertainty in Computer Models (UCM), which is used for announcing conferences, jobs, papers etc. The list is fully moderated. To join the UCM mailing list, please email [sympa@lists.shef.ac.uk](mailto:sympa@lists.shef.ac.uk) with *subscribe ucm* as the subject.  
+
+# Research visitors
+
+SoMaS hosts short and long term research visits through its Mathematics and Statistics Research Centre. Please contact us if you are interested in visiting our group. Financial support may be available.
 
 <a class="twitter-timeline" href="https://twitter.com/SheffieldUQ" data-widget-id="651408622656823296">Tweets by @SheffieldUQ</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
