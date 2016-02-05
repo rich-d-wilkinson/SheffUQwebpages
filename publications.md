@@ -2,6 +2,8 @@
 layout: plain
 ---
 
+These are the relevant UQ publications from the last few years. For a full list, please see the academic members individual sites.
+
 <div class="article">
         <div class="content">
     <div class="well">
@@ -59,7 +61,3 @@ layout: plain
 </div>
 </div>
 </div>
-
-
-
-
