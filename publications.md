@@ -7,6 +7,15 @@ These are the relevant UQ publications from the last few years. For a full list,
 <div class="article">
         <div class="content">
     <div class="well">
+<h1> 2016</h1>
+{% bibliography --query @*[year=2016] %}
+</div>
+</div>
+</div>
+
+<div class="article">
+        <div class="content">
+    <div class="well">
 <h1> 2015</h1>
 {% bibliography --query @*[year=2015] %}
 </div>
