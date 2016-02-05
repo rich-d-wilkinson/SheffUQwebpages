@@ -11,11 +11,11 @@ What we mean by UQ, and problems of interest to us.
 
 #### What is UQ?
 
-The term "Uncertainty Quantification"(UQ) is rather vague, and could describe much of what is done within Statistics. Nevertheless, we use the term to refer quantifying uncertainty in a (typically) *deterministic* mathematical model of a physical system: a model built based on an understanding of the underlying physical process, as opposed to a purely empirical or statistical model fitted to observed data. Often, such models are built precisely because it's not practical to do physical experiments to get the input-output data. We sometimes refer to such models as **simulators** to distinguish them from other models used within UQ methodology. 
+The term "Uncertainty Quantification"(UQ) is rather vague, and could describe much of what is done within Statistics. Nevertheless, we use the term to refer quantifying uncertainty in a (typically) *deterministic* mathematical model of a physical system: a model built based on an understanding of the underlying physical process, as opposed to a purely empirical or statistical model fitted to observed data. Often, such models are built precisely because it's not practical to do physical experiments to get the input-output data. We sometimes refer to such models as **simulators** to distinguish them from other models used within UQ methodology.
 
 #### Sources of uncertainty in a simulator prediction
 
-1. **Uncertainty in simulator inputs parameters** 
+1. **Uncertainty in simulator inputs parameters**
 To run a simulator, the user may have to specify particular input values, the values of which may be uncertain. For example, a health economic decision model may predict long term costs and health outcomes for a population of patients given a particular drug. simulator inputs may include quantities such as the proportion of patients 'responding' to the drug, which would be uncertain. Rather more pernicious is the problem of parameters within the simulator that have been estimated, and then hard-coded and forgotten about. A comprehensive UQ will need to deal with these too.
 2. **Simulator discrepancy**
 Even if we could known all the 'true' values of the simulator inputs/parameters, the simulator output typically will not give the correct value of the corresponding real-world quantity. This may because simplifications in the simulator structure have been necessary, or the underlying physical process may not be well enough understood to model it 'correctly'. Errors may also be introduced through numerical approximations used within the simulator.
