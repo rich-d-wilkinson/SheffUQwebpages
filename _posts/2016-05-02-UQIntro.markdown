@@ -32,6 +32,7 @@ A complication is when the simulator is computationally expensive: it takes too 
 
 #### Stochastic simulators
 Although it can be helpful to first define the field of UQ in terms of deterministic simulators, the same problems and methodoloy apply to stochastic simulators too. Typically, stochasticity arises from an internal Monte Carlo process conducted within the simulator.   
+
 #### Further reading
 These themes are discussed in more detail in the [MUCM Toolkit](http://mucm.aston.ac.uk/MUCM/MUCMToolkit/index.php?page=MetaHomePage.html). Some example papers (involving us) are as follows.
 
