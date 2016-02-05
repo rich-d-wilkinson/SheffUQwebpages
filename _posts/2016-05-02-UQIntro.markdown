@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A short intro to UQ"
-date:   2015-02-05
+date:   2016-02-05
 author: Jeremy Oakley
 authorurl: http://www.jeremy-oakley.staff.shef.ac.uk/
 categories: jekyll update blog
