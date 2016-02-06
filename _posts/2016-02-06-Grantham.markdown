@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Two Uncertainty Quantification PhD studentships"
+date:   2016-02-06
+author: Richard Wilkinson
+authorurl: http://r-wilkinson.staff.shef.ac.uk
+
+categories: jekyll update blog
+---
+
+We have secured funding for two PhD studentships on  Uncertainty Quantification topics. These are four year studentships funded by the Sheffield [Grantham Centre](http://grantham.sheffield.ac.uk), and are available to UK/EU and international students. Students will receive an annual stipend of £17,335, well above the usual UK stipend of £14,296.  There are two UQ projects, one based in maths, and one in architecture. In both cases, we are looking for  a student who has a strong statistics or maths background (students who studied physics or engineering would also be suitable). Prior knowledge of climate science or architecture is not necessary.
+
+
+# Reconstructing the past and predicting the future: what can ice­-cores tell us about climate?<a name="maths"></a>
+
+Statistical expertise can contribute greatly to climate science, particularly in palaeoclimate research, where the quality of the data means that careful treatment of uncertainty is important. Without this, scientific errors can occur, potentially leading to a public loss of confidence (the ‘hockey stick’ and the ‘climategate’ controversies were both due to arguments over the statistical treatment of palaeo data). This project offers the opportunity to work on statistical methodology while also contributing to an important scientific problem.
+
+To understand how the Earth’s climate has evolved over long time-scales we use palaeo-data, such as measurements from ice-cores extracted from glaciers. The information they contain is a combination of global and local temperatures, sea-­ice extent, and polar ice sheet changes. Our physical understanding of glaciers is encoded in complex computer models which model the ice composition by
+taking into account the numerous different processes involved.
+
+The key question for this project is: what combination of temperature, ice­sheet, and sea ice configuration most likely led to the observed time­series data? The complexity of the simulators means that we are limited to a small ensemble of simulator runs, comparing a few different scenarios. The first task of the Grantham scholar will be to build a fast statistical surrogate of the UK ­isotope enabled climate model, known as an emulator. Once we have an emulator, the next task will be to develop Bayesian methodology to solve the inverse problem. This will involve the use of complex Monte Carlo methods, and will require careful quantification of the uncertainties in the model and data. Once this methodology is in place, we can then explore various scientific hypotheses and produce climate reconstructions.
+
+
+For more details see [here](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=72343), and  apply online [here](http://www.sheffield.ac.uk/postgraduate/research/apply/applying). The project will be based in the School of Mathematics and Statistics, supervised by Dr Richard Wilkinson, Professor Caitlin Buck, and Dr Julie Jones (Geography). The student will be expected to spend time visiting project partner Dr Louise Sime at the British Antarctic Survey in Cambridge.
+
+
+#Characterising Uncertainty in Complex Environmental Simulations for Climate Change Conscious Sustainable Planning and Design
+
+Urban neighbourhoods and buildings designed with future climate in mind are more likely to perform sustainably. To do so, we need to use detailed site-specific climate projections and complex urban microclimate models in the design process. Multi-scale environmental modelling and simulation can be used to systematically explore a large number of planning  options, to examine the likely effect on sustainability over time. However, these computer simulations involves many uncertain  elements, and the implication of these compounded uncertainties is not well understood. This research aims to identify, quantify, and visualize such uncertainties.
+
+The project will involve Bayesian statistics, uncertainty quantification tools such as Gaussian processes, and will require an appreciation of climate modelling. The project will require the student to work closely with complex microclimate models, and so an interest in urban design and planning would be beneficial.
+
+For more details see [here](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=72342), and apply online [here](http://www.sheffield.ac.uk/postgraduate/research/apply/applying). The project will be based in the School of Architecture, supervised by Dr Chenzhi Peng, Dr Richard Wilkinson (School of Maths and Statistics) and Professor Helen Kenedy (Department of Sociological Studies).
+
+
+# About the Grantham Centre
+
+The Grantham Centre for Sustainable Futures focuses on advancing the science of sustainability and connecting it with the policy debate around how humans can live in a more sustainable way.
+grantham.sheffield.ac.uk
+
+We are recruiting Grantham Scholars who will combine outstanding intellect with a strong commitment to public engagement, leadership and action. If these principles match your ambitions, you are invited to apply for one of our interdisciplinary PhD research projects to help solve the challenges of sustainability. You will be supported by the Grantham Centre through a unique training programme, designed to equip to with the skills to become a policy advocate and leader in sustainability matters.

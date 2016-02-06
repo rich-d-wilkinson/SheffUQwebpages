@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Managing Uncertainty in Complex Models (2006-2012)
-The [Managing Uncertainty in Complex Models (MUCM)](http://www.mucm.ac.uk/Pages/MUCM.html) project involved developing methodology for emulation, sensitivity analysis, experimental design, calibration and history matching. You can read about all this in the [MUCM Toolkit](http://mucm.aston.ac.uk/MUCM/MUCMToolkit/index.php?page=MetaHomePage.html) 
+The [Managing Uncertainty in Complex Models (MUCM)](http://www.mucm.ac.uk/Pages/MUCM.html) project involved developing methodology for emulation, sensitivity analysis, experimental design, calibration and history matching. You can read about all this in the [MUCM Toolkit](http://mucm.aston.ac.uk/MUCM/MUCMToolkit/index.php?page=MetaHomePage.html)
 
 # Calibration and analysis of complex models: methodological development and application to explore the impact of HAART in Africa (2012-2016)
 [This project](http://cmmid.lshtm.ac.uk/mrccalib/), led by [Richard White](http://www.lshtm.ac.uk/aboutus/people/white.richard) at LSHTM, has involved the use of emulation and history matching methods for calibrating stochastic infectious disease models to observed data. A tutorial paper is available [here](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003968).
