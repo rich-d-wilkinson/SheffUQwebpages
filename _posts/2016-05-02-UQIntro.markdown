@@ -5,6 +5,7 @@ date:   2016-02-05
 author: Jeremy Oakley
 authorurl: http://www.jeremy-oakley.staff.shef.ac.uk/
 categories: jekyll update blog
+comments: True
 ---
 
 What we mean by UQ, and problems of interest to us.
