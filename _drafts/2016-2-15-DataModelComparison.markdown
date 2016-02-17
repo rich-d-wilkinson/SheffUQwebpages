@@ -4,7 +4,7 @@ title:  "Data-model comparison"
 date:   2016-02-16
 author: Richard Wilkinson
 authorurl: http://r-wilkinson.staff.shef.ac.uk
-comments: False
+comments: True
 categories: jekyll update blog
 ---
 
