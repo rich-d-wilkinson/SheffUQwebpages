@@ -7,7 +7,7 @@ We are a research group in Uncertainty Quantification (UQ) at the University of 
 
 Such problems include: investigating model output uncertainty induced by model input uncertainty; calibrating models to physical observations; assessing the discrepancy model predictions and reality; analysis with computationally expensive models.
 
-Currently, we are spread across two departments: [the School of Mathematics and Statistics (SoMaS)](https://www.sheffield.ac.uk/maths), and [the School of Health and Related Research (ScHARR)](https://www.sheffield.ac.uk/scharr)
+Currently, we are spread across three departments: [the School of Mathematics and Statistics (SoMaS)](https://www.sheffield.ac.uk/maths), [the School of Health and Related Research (ScHARR)](https://www.sheffield.ac.uk/scharr), and [the Department of Computer Science](http://www.sheffield.ac.uk/dcs).
 
 # Email list
 
