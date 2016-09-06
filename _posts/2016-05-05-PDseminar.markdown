@@ -8,4 +8,4 @@ categories: jekyll update events
 
 [Pete Dodd](https://www.shef.ac.uk/scharr/sections/heds/staff/dodd_p) (University of Sheffield)
 Hicks J11, 2pm
-Title and abstract to follow.
+Mathematical modelling approach to estimating TB incidence.
