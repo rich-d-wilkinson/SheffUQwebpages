@@ -1,0 +1,26 @@
+---
+title: "Eliciting probability distributions with SHELF (version 3.0)"
+output: html_document
+layout: post
+date:   2016-10-03
+author: Jeremy Oakley
+authorurl: http://www.jeremy-oakley.staff.shef.ac.uk/
+categories: jekyll update blog
+comments: True
+---
+
+A new release of SHELF (version 3.0) is now available.
+
+Tony O'Hagan and I are pleased to announce a new release of the SHeffield ELicitation Framework (SHELF) for eliciting probability distributions from experts, [available here](http://tonyohagan.co.uk/shelf).
+
+This is a major upgrade to version 2.0 (released 6 years ago!), featuring:
+
+* Additional extensive advice for organising and conducting SHELF elicitation workshops, in the form of several new documents.
+* Updated SHELF 1 and SHELF 2 templates, with the six versions of SHELF 2 now consolidated into a single template.
+* Two new SHELF 3 templates for eliciting distributions for a group of uncertain quantities.  This is the first time that SHELF has included templates for multivariate elicitation.
+* Several PowerPoint slide sets to assist with explaining the different kinds of judgements that experts are required to make, and to help them to make those judgements accurately.
+* A [new R package](https://cran.r-project.org/package=SHELF) for fitting distributions to expert judgements.
+* Examples of an evidence dossier and completed SHELF templates.
+
+
+
