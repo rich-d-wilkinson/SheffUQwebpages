@@ -8,4 +8,4 @@ PhD applications in the area of UQ are welcome at any time. Applicants should ha
 
 If you wish to apply for a PhD, you should first contact one of the group members to discuss your application.
 
-We are currently [advertising]({% post_url 2016-02-06-Grantham %}) for  two specific funded PhD projects.
+
