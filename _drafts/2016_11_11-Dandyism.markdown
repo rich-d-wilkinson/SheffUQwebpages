@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Mathematical dandyism"
+date:   2016-11-11
+author: Richard Wilkinson
+authorurl: http://r-wilkinson.staff.shef.ac.uk
+comments: True
+categories: jekyll update blog
+---
+
+> > A dandy  places particular importance upon physical appearance, refined language, and leisurely hobbies, pursued with the appearance of nonchalance in a cult of self. Wikipedia
+
+Guernsey McPearson (Stephen Senn)
+Theoretical statistician. A second class mathematician who imagines that he is a first class statistician.
+
+lived and breathed this stuff, living within view of the catholic Church .... Hardy talks about in.... Would never have taken a stats course except for easy credit
+
+Offers from Oxford, Cambridge, Bristol, UCL and Imperial for PhD places in probability, ended up working with Simon Tavare, the current LMS president, who very much enjoys math for its own sake but more importantly seeks applications where he can (he's currently director of CRUK).
+
+Own conversion was painful. It took me till post-PhD to be able to say 'I am a statistician', and even once I was out, it was longer till I was out and proud. And why is this, its because we're taught somehow that pure mathematics is the pure and virtuous path. I used to gently ridicule my theoretical physics house mates doing PhD's in particle physics (who are now senior academics) as lesser in some way, for being sullied by needing to consider the real world etc. How embarrassing. So my plea, lets cut the anti-non-pure bias. Cut the crap - application is important, fun, challenging, and can be elegant, and is certainly hard, and even if you have no intention of doing it, don't dismiss those who do.
+
+Application should be sought, even if you have no intention of following up yourself
+
+Thankfully this viewpoint less common in stats, although there are the 'theoretical statisticians' (Guernsey ....)
+
+
+
+
+On 11 November 2016 at 17:35, Richard Wilkinson <r.d.wilkinson@sheffield.ac.uk> wrote:
+Senn. Mathematical statistician
+
+Mathematicism in statistics schafer
+
+On 11 Nov 2016 17:26, "Richard Wilkinson" <r.d.wilkinson@sheffield.ac.uk> wrote:
+All statistics is y tests
+
+On 11 Nov 2016 17:25, "Richard Wilkinson" <r.d.wilkinson@sheffield.ac.uk> wrote:
+Mathematical dandy ism, philistine
+Gh hardy
+We don't do applications
+No application of my work thankfully
+Not interested
+
+I enjoy math for its own sake, but how do wet allow this view point that I'm above application
+
+Generally students, although ref
+
+I did math was young once
+My once held view only slightly less embarrassing than brief belief in communism
+
+So let's not allow this
+
+
+
+Romantic point of view.
+belief that mathematics should be pursued for its own sake rather than for the sake of its applications. He wanted to write a book in which he would explain his mathematical philosophy to the next generation of mathematicians; that would defend mathematics by elaborating on the merits of pure mathematics solely, without having to resort to the attainments of applied mathematics in order to justify the overall importance of mathematics; and that would inspire the upcoming generations of pure mathematicians.
+
+On the other hand, Hardy denigrates much of the applied mathematics as either being "trivial", "ugly", or "dull", and contrasts it with "real mathematics", which is how he ranks the higher, pure mathematics.
+
+Real mathematics must be justified as art if it can be justified at all
+
+
+Archimedes will be remembered when Aeschylus is forgotten, because languages die and mathematical ideas do not. “Immortality” may be a silly word, but probably a mathematician has the best chance of whatever it may mean.
+
+
+“a real math- ematician . . . the purest of the pure” as C. P. Snow described in the Fore- word)
+
+ I would say, almost to the point of treating applied mathematics with prejudice.
+
+ Ironic that Hardy's most famous result is perhaps the Hardy-Weinberg equilibrium in genetics.
