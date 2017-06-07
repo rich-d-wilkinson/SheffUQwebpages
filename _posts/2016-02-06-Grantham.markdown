@@ -8,7 +8,9 @@ authorurl: http://r-wilkinson.staff.shef.ac.uk
 categories: jekyll update blog
 ---
 
-We have secured funding for two PhD studentships on  Uncertainty Quantification topics. These are four year studentships funded by the Sheffield [Grantham Centre](http://grantham.sheffield.ac.uk), and are available to UK/EU and international students. Students will receive an annual stipend of £17,335, well above the usual UK stipend of £14,296.  There are two UQ projects, one based in maths, and one in architecture. In both cases, we are looking for  a student who has a strong statistics or maths background (students who studied physics or engineering would also be suitable). Prior knowledge of climate science or architecture is not necessary.
+We have secured funding for two PhD studentships on  Uncertainty Quantification topics. These are four year studentships funded by the Sheffield [Grantham Centre](http://grantham.sheffield.ac.uk), and are available to UK/EU and international students. 
+
+Students will receive an annual stipend of £17,335, well above the usual UK stipend of £14,296.  There are two UQ projects, one based in maths, and one in architecture. In both cases, we are looking for  a student who has a strong statistics or maths background (students who studied physics or engineering would also be suitable). Prior knowledge of climate science or architecture is not necessary.
 
 
 # Reconstructing the past and predicting the future: what can ice­-cores tell us about climate?<a name="maths"></a>
