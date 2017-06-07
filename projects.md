@@ -13,3 +13,14 @@ This project is in collaboration with the [Advanced Manufacturing Research Centr
 
 # Knowledge Transfer Partnership with HR Wallingford (2014-17)
 [HR Wallingford](http://www.hrwallingford.com/) use numerical and physical modelling in relation to civil engineering and environmental hydraulics. The aim of this KTP is to implement emulator and other UQ methods within their modelling framework. Sajni Malde is working as the KTP associate on this project.
+
+# Uncertainty Quantification in Prospective and Predictive Patient Specific Cardiac Models (2017-2021)
+This [project](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P01268X/1) is led by [Richard Clayton (PI)](http://staffwww.dcs.shef.ac.uk/people/R.Clayton/), with Jeremy Oakley and Richard Wilkinson. We are looking at how patient specific computational models can be used to make prospective predictions to guide procedures and inform uncertain clinical decisions using complex cardiac simulation models.
+
+
+# Machine Learning for Aerosol Lifetime Prediction (2017-2018)
+Industrial support from SC Johnson, led by [Richard Wilkinson](https://rich-d-wilkinson.github.io/), with Tony Ryan and Alan Saul. In this project, we are looking at using Gaussian processes to improve the time-to-market of new aerosol products.
+
+# Statistical model-data comparison for palaeoclimate (2017).
+This [project](http://www.pastearth.net/feasibility_studies.html), funded by the [Past Earth Network](http://www.pastearth.net/) and led by [Richard Wilkinson](https://rich-d-wilkinson.github.io/), looks at  
+Gaussian process approaches for comparing palaeo data with global climate model (GCM) output.

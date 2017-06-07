@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BISP 10: Special Session on Stochastic Processes in Paleo Climate Science"
+date:   2017-06-13
+
+categories: jekyll update events
+---
+
+A special session at the [BISP10 conference](https://www.unibocconi.eu/wps/wcm/connect/Site/BISP10/Home) in Milan, looking at Stochastic Processes in Paleo Climate Science, organised by Richard Wilkinson on behalf of the Past Earth Network.

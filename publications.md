@@ -4,6 +4,17 @@ layout: plain
 
 These are the relevant UQ publications from the last few years. For a full list, please see the academic members individual sites.
 
+
+<div class="article">
+        <div class="content">
+    <div class="well">
+<h1> 2017</h1>
+{% bibliography --query @*[year=2017] %}
+</div>
+</div>
+</div>
+
+
 <div class="article">
         <div class="content">
     <div class="well">

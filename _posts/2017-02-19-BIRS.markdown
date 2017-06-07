@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "BIRS Workshop: Validating and Expanding Approximate Bayesian Computation Methods"
+date:   2017-02-19
+
+categories: jekyll update events
+---
+
+This 5 day [workshop](http://www.birs.ca/events/2017/5-day-workshops/17w5025) took place between 19 and 24 February 2017 at the Banff International Research station in Canada, and was co-organised by Richard Wilkinson.
+
+Description: There has been an explosion of interest in ABC from an applied perspective over the past 10 years, with some methodological innovations following rather straightforwardly as based on existing, advanced Monte Carlo methodology. Our theoretical understanding of these methodologies in the ABC setting, including their interplay with characteristics of the statistical problems they intend to solve, has really started to improve only in the last few years. These developments lead us to believe that the community is at a critical point where this understanding can be translated into sophisticated and robust methodology for solving the challenging statistical problems that motivated ABC in the first place, many of which have no existing alternatives, and the proposed workshop should constitute a key step in this process.
