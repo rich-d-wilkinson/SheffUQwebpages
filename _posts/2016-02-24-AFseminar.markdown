@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "Mini symposium at SIAM UQ in Lausanne"
+title:  "Seminar"
 date:   2016-02-24
-author: Richard Wilkinson
-authorurl: http://r-wilkinson.staff.shef.ac.uk
 
 categories: jekyll update events
 ---
@@ -12,54 +10,3 @@ categories: jekyll update events
 **How to swim like a fish, or indeed an eel**
 Lecture Theatre 2, Mappin Building, 3pm. [(Dynamics Research Group Seminar Series)](http://www.sheffield.ac.uk/drg/seminars)
 
-[Learning Parameters from Data: Calibration, Inverse Problems, and Model](https://www.siam.org/meetings/uq16/program.php)
-SIAM UQ mini symposium, Friday 9 April, EPFL, Lausanne.
-
-Alex Diaz, Marco Iglesias and myself have organised a mini symposium at the SIAM UQ conference, which will be in Lausanne this year.
-
-** Session Abstract**
-
-Complex numerical models have
-become so ubiquitous in science,
-that nowadays the conclusions drawn
-from their use influence critical
-and expensive decisions in science,
-engineering and public policy. The
-predictive power of such models relies
-on how well they are calibrated to
-experimental data. The main aim of this
-minisymposium is to bring together
-experts in calibration and inverse
-problem modelling. Relevant topics for
-include: robust calibration techniques,
-inverse problem methodologies,
-Bayesian model updating, history
-matching, data assimilation, model
-discrepancy, amongst others. Theoretical
-and computational developments are
-of interest, with particular focus on
-numerical efficiency.
-Organizer: Alejand
-
-Faced with situations that we wish to improve, we need to formulate some kind of model
-of how our controllable inputs to the situation affect the outputs. Whether we are selecting
-the best inputs to result in the kids going to bed on time, or making a quiet aircraft engine,
-modelling the situation is important. Models may be analytical, physics-based or empirical,
-or a mixture. While analytical and physics-based models can be fast to run, they may not
-be able to predict true-life outcomes. Physical experiments are often expensive and
-display all the negatives/excitement of true-life - primarily uncertainty. Statistical modelling
-methods are useful for combining data of varying lineage into a useful model that can be
-used to predict outcomes, and so optimise situations. In this talk I will show the
-development of such a model. It is a musculoskeletal/hydrodynamic model of the
-underwater fly-kick of an Olympic swimmer, based on experimental, physics-based and
-analytical data. Statistical model based optimization techniques are then used to develop
-swimming techniques for optimal trade-offs between power and thrust. The techniques are
-applicable in all areas of science where inputs can be modified to affect outputs which are
-to be improved.
-
-The speakers are
-
-* Alejandro Diaz (University of Liverpool)- History matching with structural reliability methods
-* Ian Vernon (Durham University) - Iterative History Matching for Computationally Intensive Inverse Problems
-* James Hensman (University of Lancaster) - Efficient Inverse problems with Gaussian process surrogates via entropy search
-* Zaid Sawlan (KAUST) - Bayesian inference for linear parabolic PDEs with noisy boundary conditions
